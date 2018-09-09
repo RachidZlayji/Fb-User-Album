@@ -10,3 +10,5 @@ The design pattern used is MVP(Model, View, Presenter)
 <li> <a href="https://github.com/google/gson" >Gson</a></li>
 <li> <a href="https://github.com/bumptech/glide" >Glide</a></li>
 </ul>
+<h2>Author</h2>
+ZLAYJI Rachid
